@@ -23,7 +23,7 @@ Please submit this file to Gradescope.
 
 ## Part 2: Diffusion Models
 
-In this part, we will be working in the ipynb files in `part2/`, corresponding to each problem. Please submit an aggregated PDF file with answers to and figures generated in **_all_** problems, along with the notebook with your code and running outputs.
+In this part, we will be working in the ipynb file in `part2/`, corresponding to each problem. Please submit an aggregated PDF file with answers to and figures generated in **_all_** problems, along with the notebook with your code and running outputs.
 
 ### Submission Guidelines for Part 2
 
