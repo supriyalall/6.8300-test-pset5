@@ -1,5 +1,0 @@
-timm
-ipywidgets
-datasets
-matplotlib
-gdown
