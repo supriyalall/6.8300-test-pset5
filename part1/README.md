@@ -8,3 +8,5 @@ To get started, open this notebook in Google Colab and follow the instructions t
 
 The only deliverable for this problem is `part1/representations.py`.
 Please submit this file to Gradescope.
+
+*Note for 1.3: Using sklearn is an appropriate solution and will result in credit -- however, I would recommend refraining from using an external library to calculate similarities!
